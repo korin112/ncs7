@@ -33,7 +33,7 @@ public class Order {
 		this.orderMenu.remove(order_num-1);
 		this.orderQty.remove(order_num-1);
 		this.sum.remove(order_num-1);
-	}
+	}/*asdfasdf*/
 	
 	private void update(Menu menu,int orderMenu_num, int orderMenu, int orderQty) {
 		this.orderMenu.set(orderMenu_num-1,menu.getAlMenu(orderMenu-1));
