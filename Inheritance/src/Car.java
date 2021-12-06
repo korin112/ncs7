@@ -1,6 +1,6 @@
 
 public class Car {
-	Tire[] tires= {	new Tire(6,"앞왼쪽"),
+	Tire[] tires= {	new Tire(6,"앞왼쪽"),// tire인스턴스만 들어갈 수 있는 배열
 			new Tire(2,"앞오른쪽"),
 			new Tire(3,"뒤왼쪽"),
 			new Tire(4,"뒤오른쪽")
