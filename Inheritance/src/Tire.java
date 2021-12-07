@@ -23,8 +23,4 @@ public class Tire {
 			return false;
 		}
 	}
-	
-	
-	
-	
 }
