@@ -9,7 +9,7 @@ public class Battle {
 		while(commando.getHP()>0 &&
 				conan.getHP()>0) {
 			//12
-			try {
+			try {		//12
 				// 0과 1 둘중 하나를 랜덤발생시키는 코드
 				if((int)(Math.random()*2) ==0) {
 				commando.attack(conan);	//0이면
