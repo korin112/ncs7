@@ -13,7 +13,7 @@ public class Common {
 //	8. 출력
 	int A,x,y;
 	Common(){}		//기본생성자
-	
+	//12
 	Common(int a,int b){	//일반생성자
 		x=a;
 		y=b;

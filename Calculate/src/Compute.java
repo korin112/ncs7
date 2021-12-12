@@ -12,7 +12,7 @@ public class Compute {
 //		6. A를 따로 보관한 값의 곱 -> 최대공약수
 //		7. X*Y/최대공약수 -> 최소공배수
 //		8. 출력
-		
+		//12
 		Common cmn1 = new Common(60,24);	// common 클래스 이름
 		// cmn1 instance이름
 		cmn1.showGCF(); 	// 최대공약수
