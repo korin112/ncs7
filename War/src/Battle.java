@@ -8,7 +8,7 @@ public class Battle {
 		System.out.println("War started.");
 		while(commando.getHP()>0 &&
 				conan.getHP()>0) {
-			
+			//12
 			try {
 				// 0과 1 둘중 하나를 랜덤발생시키는 코드
 				if((int)(Math.random()*2) ==0) {

@@ -8,7 +8,7 @@ public class Soldier {
 	public Soldier(int AP, int HP) {
 		this.AP = AP;
 		this.HP = HP;
-	}
+	}		//12
 	public int getAP() {
 		return AP;
 	}

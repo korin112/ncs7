@@ -9,7 +9,7 @@ public class Warrior {
 		this.AP = AP;
 		this.HP = HP;
 	}
-	public int getAP() {
+	public int getAP() {		//12
 		return AP;
 	}
 	public int getHP() {

@@ -20,7 +20,7 @@ public class Car {	// 어디까지나 틀
 		this.color="White";
 		this.maxSpeed=260;
 		this.speed=0;
-	} 
+	} 		//12
 	//생성자 오버로딩(Constructor overloading) <- 다형성의 일종
 	Car(String sCompany,String sModel,String sColor,
 		int nMaxSpeed,int nSpeed){

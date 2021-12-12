@@ -16,7 +16,7 @@ public class Domain {
 		System.out.println("--------------------------");
 		
 		Car seltos=new Car("KIA","Seltos","White",220,0);
-		
+		//12
 		System.out.println("제조업체 : "+seltos.company);
 		System.out.println("모델명 : "+seltos.model);
 		System.out.println("색상 : "+seltos.color);
